@@ -1,5 +1,7 @@
 # Probability
 
+![](https://komarev.com/ghpvc/?username=ambrusza&style=for-the-badge&color=blue)
+
 **calculating probabilities with python**
 
 
@@ -9,4 +11,4 @@ feedback is welcome, especially if there is a problem with the final result
 
 probability -> swampy area
 
-![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
+
