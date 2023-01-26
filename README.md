@@ -11,4 +11,11 @@ feedback is welcome, especially if there is a problem with the final result
 
 probability -> swampy area
 
+the question was motivated by the soccer world cup (2022 - Quatar)
+
+Real result:
+
+![Képernyőfotó 2023-01-26 - 21 48 06](https://user-images.githubusercontent.com/66861232/214947184-180282c1-46b3-4139-8c85-727460a543e8.png)
+
+![Képernyőfotó 2023-01-26 - 21 48 33](https://user-images.githubusercontent.com/66861232/214947274-56fabf5a-0c12-40d8-ac31-259d37dfdcb9.png)
 
