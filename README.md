@@ -11,7 +11,8 @@ feedback is welcome, especially if there is a problem with the final result
 
 probability -> swampy area
 
-**What is the most likely result for a group of 4 teams -soccer**
+**What is the most likely result for a group of 4 teams - soccer**
+
 the question was motivated by the soccer world cup (2022 - Quatar)
 
 Calc probability ->
